@@ -1,0 +1,17 @@
+form { 
+    display:flexbox; 
+}
+
+input { 
+    margin-bottom: 12px;
+}
+
+#mensagemSucesso { 
+    margin-top: 24px;
+    color: green;
+}
+
+#mensagemErro { 
+    margin-top: 24px;
+    color: red;
+}
